@@ -1,6 +1,6 @@
 {
   "name": "scgi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "browser cache with garbage collection tool",
   "config": {
     "libName": "scgi"
