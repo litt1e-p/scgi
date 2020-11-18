@@ -1,0 +1,31 @@
+{
+  "name": "scgi",
+  "version": "0.0.1",
+  "description": "browser cache with garbage collection tool",
+  "config": {
+    "libName": "scgi"
+  },
+  "keywords": [
+    "scgi",
+    "cache",
+    "expire",
+    "browser",
+    "time"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/scgi.umd.js",
+  "module": "dist/scgi.esm.js",
+  "unpkg": "dist/scgi.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/scgi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/scgi/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/scgi#readme",
+  "dependencies": {
+    "jstd": "^0.0.5"
+  }
+}
