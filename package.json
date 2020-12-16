@@ -1,6 +1,6 @@
 {
   "name": "scgi",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "browser cache with garbage collection tool",
   "config": {
     "libName": "scgi"
@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/litt1e-p/scgi#readme",
   "dependencies": {
-    "jstd": "^0.1.0",
-    "core-js": "^3.8.1"
+    "jstd": "^0.1.1",
+    "core-js": "^3.8.1",
+    "regenerator-runtime": "^0.13.7"
   }
 }
